@@ -371,6 +371,7 @@ body {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    outline: 0;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
